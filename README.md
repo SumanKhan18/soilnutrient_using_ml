@@ -108,6 +108,12 @@ test_model(df, "potato", "rabi", user_params)
     └── soil_nutrients.csv
 ```
 
+📁 Dataset
+This project uses a private dataset named soil_nutrients.csv containing crop requirements for various soil and weather conditions.
+
+❗ The dataset is private and not publicly shared.
+📩 If you need access, contact: sumankhan2909@gmail.com
+
 ---
 
 🏁 Conclusion
